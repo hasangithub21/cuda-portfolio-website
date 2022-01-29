@@ -61,6 +61,7 @@ header {
 
 header nav .navbar {
   padding: 1.5rem 0;
+  height: 9vh;
   display: flex;
   justify-content: space-between;
   align-items: center;
