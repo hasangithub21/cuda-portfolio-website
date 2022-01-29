@@ -63,7 +63,7 @@
     display: block;
     position: fixed;
     left: -200%;
-    top: 8vh;
+    top: 9vh;
     background-color: rgb(125, 75, 143, 1);
     width: 100vw;
     height: 100vh;
@@ -75,7 +75,7 @@
   }
   header nav .navbar .nav-links li {
     background-color: rgb(0, 0, 0, 0);
-    padding-top: 2.2rem;
+    padding-top: 1.8rem;
   }
   header nav .navbar > ul li :visited,
   header nav .navbar > ul li :active,
@@ -271,7 +271,6 @@
   .service-icon {
     padding: 0.7rem 0;
     height: 4rem;
-    width: 30%;
+    width: 25%;
+  }
 }
-}
-
